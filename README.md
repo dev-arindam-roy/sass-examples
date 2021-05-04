@@ -17,6 +17,21 @@ Lear sass with me
 + you will see the sass version
 + that means - your system has been successfully install the sass
 + now you ready to work with sass
+
+### How to build sass
+        
++ now you create a folder for sass project
++ within that folder, you create <strong>"index.html"</strong> file & <strong>"css folder"</strong> & <strong>"sass folder"</strong>
++ in the css folder you have to create a css file - like <strong>style.css</strong>
++ in the sass folder you have to create a scss file - like <strong>style.scss</strong>
++ the link the css file with your <strong>index.html</strong>
++ now you write your all css code into <strong>style.scss</strong> file
++ for conver scss to css - run below command - 
++ <strong>sass sass/style.scss:css/style.css</strong>
++ for continue update - run below command
++ <strong>sass --watch sass/style.scss:css/style.css</strong>
++ then auto create all scss code to css
+        
         
 
 
