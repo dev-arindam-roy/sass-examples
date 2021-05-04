@@ -31,6 +31,11 @@ Lear sass with me
 + for continue update - run below command
 + <strong>sass --watch sass/style.scss:css/style.css</strong>
 + then auto create all scss code to css
+
+**For Syntax Documentation, Please vist official site**
+[https://sass-lang.com/documentation](https://sass-lang.com/documentation)
+
+
         
         
 
